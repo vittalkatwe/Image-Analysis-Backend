@@ -1,0 +1,25 @@
+# fastapi==0.110.0
+# python-multipart==0.0.9
+# uvicorn==0.27.1
+# pillow==10.2.0
+# torch==2.2.1
+# transformers==4.38.2
+# accelerate==0.27.2
+# pyvips
+# einops
+# transformers
+# numpy<=2
+# pybind11>=2.2
+# protobuf
+# sentencepiece
+# accelerate
+
+
+fastapi
+uvicorn
+python-multipart
+google-generativeai
+pillow
+pymongo
+python-dotenv
+aiofiles
